@@ -98,8 +98,5 @@
 	<h4><i>"The Eye of Global News. Be in the Know. Stay in the Zone"</i></h4>
   </div>
 
-    
-		
-
-
+</body>
 </html>
