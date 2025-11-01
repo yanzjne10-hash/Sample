@@ -1,1 +1,105 @@
-# Sample
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EON Zone</title>
+
+<link rel="stylesheet" type="text/css" href=eonz.css>
+  
+  <ul> 
+		  <li><a href="EON Zone.html"><img src="logo2.png"></a></li>
+		  <li><a href="EON Zone.html">NEWS</a></li> 
+		  <li><a href="Ent.html">ENTERTAINMENT</a></li> 
+		  <li><a href="SPORTS.html">SPORTS</a></li> 
+		  <li><a href="edit.html">EDITORIAL</a></li> 
+		  <li><a href="#about">CARICATURE</a></li> 
+		  <li><a href="#about">FASHION</a></li>
+		  <li><a href="#about">CONTACT US</a></li> 
+		</ul> 
+ 
+  
+  
+  
+<style>
+    body {
+      margin: 0;
+      font-family: Georgia;
+      height: 100vh;
+   
+      background: url("bggbg.jpg"); no-repeat center center fixed;
+	  
+      background-size: cover;
+    }
+</style>
+</head>
+
+
+ <body>
+	<style> 
+		body { 
+		  background-color:#faf9f8;
+		  margin: 0; 
+		  padding: 0; 
+		} 
+
+
+		h2 p { 
+		  margin: 10px; 
+		} 
+
+		ul { 
+		  list-style-type: none; 
+		  margin: 0; 
+		  padding: 3px; 
+		  overflow: hidden; 
+		  background-color: #113; 
+		  opacity: 0.9;
+		} 
+
+		ul li { 
+		  float: left; 
+		} 
+
+		ul li a { 
+		  display: flex; 
+		  color: white; 
+		  text-align: center;
+		  justify-content: space-between;
+		  margin-left: 5px;
+		  padding: 10px 10px;
+		  text-decoration: none; 
+		  font-size: 18px;
+		  font-family: Georgia, sans-serif;
+		  font-weight: bold;
+		  margin-bottom: 0px;
+		} 
+
+		ul li a:hover { 
+		  background-color: #114; 
+		  color: #ff0000;
+		} 
+		
+		ul li img { 
+		  	width: 50px;
+			height: 25px;
+			margin-left: 1px;
+			margin-top: 0px;
+		} 
+	</style>
+ 
+
+<body> 
+
+
+  <div class="content">
+  <a href="EON Zone.html"><img src="logoee.png"></a>
+	<h4><i>Everything on News Zone</i></h4>
+	<h4><i>"The Eye of Global News. Be in the Know. Stay in the Zone"</i></h4>
+  </div>
+
+    
+		
+
+
+</html>
