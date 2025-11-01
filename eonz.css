@@ -233,6 +233,7 @@
 			border-radius: 15px;
             width: 45%;
             padding: 15px;
+			margin-top:2%;
         }
 		
 		.news3 img {
@@ -358,4 +359,5 @@
 		
 		.desc1 p {
 			font-size: 25px;
+
 		}
