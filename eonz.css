@@ -227,12 +227,13 @@
 			}
 		
 		.news3 {
-            background-color:transparent;
+            background-color:rgb(240, 240, 240);
 			opacity: 0.8;
             border: 1px solid transparent;
 			border-radius: 15px;
             width: 45%;
             padding: 15px;
+			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.2)
 			margin-top:2%;
         }
 		
@@ -276,12 +277,13 @@
         }
 		
 		.news4 {
-            background-color:transparent;
+            background-color:rgb(240, 240, 240);
 			opacity: 0.8;
             border: 1px solid transparent;
 			border-radius: 15px;
             width: 45%;
             padding: 15px;
+			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.2)
         }
 		
 		.news4 img {
@@ -361,3 +363,4 @@
 			font-size: 25px;
 
 		}
+
