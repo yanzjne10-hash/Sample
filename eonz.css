@@ -191,6 +191,11 @@
 			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.6);
 		}
 		
+		.categ-grid2 :hover{
+			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.6);
+			
+		}
+		
 			.news2 img {
 				border-radius:10px;
 				width: 100%;
@@ -412,7 +417,7 @@
 			font-family:trebuchet ms;
 			font-size:50px;
 			margin-top:10px;
-			margin-left:90px;
+			margin-left:45px;
 			text-shadow: 1px 1px 5px gray;
 		}
 		
@@ -427,35 +432,40 @@
 			width: 60%;
 			padding: 25px;
 			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.2);
-			}
+		}
+		
 		
 		.con img {
 			margin-top:50px;
 			border-radius:10px;
-			width: 12%;
-			height:55px;
+			width: 19%;
+			height:65px;
 			display:block;
 			}
 
 		.con h4 {
 			font-family:trebuchet ms;
-			font-size:20px;
-			margin-bottom:10px			
+			font-size:23px;
+			margin-bottom:10px;
 		}
 			
+		
 		.con a {
 			font-family:trebuchet ms;
-			font-size:17px;
+			font-size:20px;
 			margin-top:10px;
 			color:#0077cc;
 			text-decoration:none;
 			display:block;
 		}
 		
+		
+		
 		.con a:hover {
 			color:#ff6600;
 			text-decoration:underline;
 		}
+		
 		
 		.cons {
 			margin-left: 10px;
@@ -474,11 +484,35 @@
 			gap:30px;
         }
 		
+		.con h2 {
+			margin-left:85px;
+			font-size:20px;
+			color:black;
+			margin-top:-56px;
+			font-family:tahoma;
+			font-weight:normal;
+		}
+		
+		.cons2 p {
+			margin-left:85px;
+			font-size:20px;
+			color:black;
+			margin-top:-1px;
+			font-family:tahoma;
+			font-weight:normal;
+		}
+		
 		
 				
 		.cons2 :hover{
 			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.6);
 			transition: transform 0.3s ease, box-shadow 0.3s ease;
+			cursor: pointer;
+		}
+		
+		.con :hover{
+			box-shadow: none;
+			transition: none;
 			cursor: pointer;
 		}
 		
