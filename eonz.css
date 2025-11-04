@@ -468,14 +468,13 @@
 		
 		
 		.cons {
-			margin-left: 10px;
+			margin-left: 5px;
             padding: 40px 20px;
-			margin-left: 0px;
 			font-family: Georgia;
 			padding:0;
 			margin-right:5px;
 			flex-wrap:wrap;
-			margin-left:5px;
+			margin-right:10px;
         }
 
 
@@ -484,6 +483,7 @@
             justify-content: space-around;
 			gap:25px;
 			margin-left:10px;
+			margin-right:10px;
         }
 		
 		.con h2 {
