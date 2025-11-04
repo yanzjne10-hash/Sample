@@ -429,7 +429,7 @@
 			opacity: 0.8;
 			border: 1px solid transparent;
 			border-radius: 15px;
-			width: 100%;
+			width: 80%;
 			padding: 25px;
 			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.2);
 		}
@@ -522,4 +522,5 @@
 			margin-bottom:20px;
 		}
 		
+
 
