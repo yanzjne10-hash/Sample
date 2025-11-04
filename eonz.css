@@ -429,7 +429,7 @@
 			opacity: 0.8;
 			border: 1px solid transparent;
 			border-radius: 15px;
-			width: 60%;
+			width: 100%;
 			padding: 25px;
 			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.2);
 		}
@@ -481,7 +481,8 @@
         .cons2 {
             display: flex;
             justify-content: center;
-			gap:30px;
+			gap:25px;
+			margin-left:20px;
         }
 		
 		.con h2 {
