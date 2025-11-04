@@ -13,11 +13,21 @@
     }
 
 	.content h4 {
-	  font-family:verdana;
+	  font-family:garamond (serif);
 	  font-weight: normal;
-	  font-size:25px;
+	  font-size:30px;
+      text-shadow: 2px 3px 5px black;
+	  margin-top:2px;
+	  margin-bottom:0px;
+    }
+	
+	.content p {
+	  font-family:garamond (serif);
+	  font-weight: normal;
+	  font-size:17px;
       text-shadow: 2px 3px 5px black;
 	  margin-bottom:0px;
+	  margin-top:20px;
     }
 		
 		.txt {
@@ -522,5 +532,6 @@
 			margin-bottom:20px;
 		}
 		
+
 
 
