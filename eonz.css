@@ -474,15 +474,16 @@
 			font-family: Georgia;
 			padding:0;
 			margin-right:5px;
-			margin-left:10px;
+			flex-wrap:wrap;
+			margin-left:5px;
         }
 
 
         .cons2 {
             display: flex;
-            justify-content: center;
+            justify-content: space-around;
 			gap:25px;
-			margin-left:20px;
+			margin-left:10px;
         }
 		
 		.con h2 {
@@ -522,4 +523,3 @@
 			margin-bottom:20px;
 		}
 		
-
